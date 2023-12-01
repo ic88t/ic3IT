@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yip</h1>
 <h3 align="center">A passionate developer at Codam 42</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ic3it&label=Profile%20views&color=0e75b6&style=flat" alt="ic3it" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ic3it" alt="ic3it" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
