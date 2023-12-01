@@ -20,11 +20,7 @@
 
 <br>
 
-> :desktop_computer:  Languages - C | C++ | Markdown | Bash | HTML | CSS
-
-> :hammer_and_wrench:  Tools - Git | GitHub | Stack Overflow
-
-> :atom:  IDEs - Vim | Visual Studio | Visual Studio Code
+> :desktop_computer:  Languages - C | Python | Javascript | React | HTML | CSS
 
 <br>
 
