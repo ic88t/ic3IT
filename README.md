@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/ryo-ma/github-profile-trophy">[Venium]</a">
+- 🔭 I’m currently working on <a href="https://venium.vercel.app"> [Venium] </a">
 
 - 🌱 I’m currently learning **C, Python, Javascript, React, Solidity, Typescript**
 
