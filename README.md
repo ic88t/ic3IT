@@ -1,4 +1,4 @@
-<h2 align="center">🖥️ Student at Codam 42</h2>
+<h2 align="center">🖥️ Founder @venium_io | Student at Codam 42</h2>
 
 ###
 
